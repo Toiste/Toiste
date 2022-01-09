@@ -1,4 +1,4 @@
-# Hey, I'm Marllon!
+# Olá, me chamo Marllon!
 
 <div>
   <a href="https://github.com/Toiste">
@@ -13,4 +13,21 @@
 </div>
 <br> 
   
-## Olá, me chamo Marllon!
+##  Hey, I'm Marllon!
+  </div>
+
+
+## Detailed information
+
+* **Name**: Marllon Ribeiro
+* **Age**: 18
+* **Living in**: Espirito Santo, Brazil
+* **Stack**: Javascript - HTML - CSS - React..
+* **Study**:I'm studying on my own
+
+## Curiosities about me
+
+* i create 2d games on the game engine Godot.
+
+
+<div>
