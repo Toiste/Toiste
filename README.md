@@ -1,5 +1,10 @@
-# Olá, me chamo Marllon!
+<h1 align="center">Hello! how are you?</h1>
+<h3 align="center">Me chamo Marllon, prazer. Sou um desenvolvedor Front-end</h3>
+<p align="justify">Estudante de Sistemas de informação. Amo desenvolvimento web, e sempre estou postou algum projeto relacionado a isso, se chegou até aqui aproveita e vê os projetinhos. 
 
+</p>
+
+:coffee: toma um café e deixe seu follow tbm.
 <div>
   <a href="https://github.com/Toiste">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Toiste&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
@@ -13,9 +18,6 @@
 </div>
 <br> 
   
-##  Hey, I'm Marllon!
-  </div>
-
 
 ## Detailed information
 
@@ -24,10 +26,3 @@
 * **Living in**: Espirito Santo, Brazil
 * **Stack**: Javascript - HTML - CSS - React..
 * **Study**:I'm studying on my own
-
-## Curiosities about me
-
-* i create 2d games on the game engine Godot.
-
-
-<div>
