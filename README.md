@@ -1,9 +1,8 @@
 <h1 align="center">Hello! how are you?</h1>
 <h3 align="center">Me chamo Marllon, prazer. Sou um desenvolvedor Front-end</h3>
 <p align="justify">Estudante de Sistemas de informação. Amo desenvolvimento web, e sempre estou postando algum projeto relacionado a isso, e se chegou até aqui, aproveita e vê os projetinhos. 
-
 </p>
-
+<img align="right" alt="Rafa-Js" height="250" width="250" src="https://www.mexidodeideias.com.br/wp-content/uploads//2013/04/Melhores-gifs-cafeinados-3.gif">
 :coffee: toma um café e deixe seu follow tbm.
 <div>
   <a href="https://github.com/Toiste">
