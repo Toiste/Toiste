@@ -1,5 +1,5 @@
 <h1 align="center">Hello! how are you?</h1>
-<h3 align="center">Me chamo Marllon, prazer. Sou um desenvolvedor Front-end</h3>
+<h3 align="center">Me chamo Marllon, prazer. Estou estudando para ser um desenvolvedor Web</h3>
 <p align="justify">Estudante de Sistemas de informação. Amo desenvolvimento web, e sempre estou postando algum projeto relacionado a isso, e se chegou até aqui, aproveita e vê os projetinhos. 
 </p>
 :coffee: toma um café e deixe seu follow tbm.
