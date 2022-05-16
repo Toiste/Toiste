@@ -20,7 +20,7 @@
 ## Detailed information
 
 * **Name**: Marllon Ribeiro
-* **Age**: 18
+* **Age**: 19
 * **Living in**: Espirito Santo, Brazil
 * **Stack**: Javascript - HTML - CSS - React..
 * **Study**:I'm studying on my own
