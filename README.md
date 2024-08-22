@@ -1,6 +1,5 @@
-<h1 align="center">Hello! how are you?</h1>
-<h3 align="center">Me chamo Marllon, prazer. Estou estudando para ser um desenvolvedor Web</h3>
-<p align="justify">Estudante de Sistemas de informação. Amo desenvolvimento web, e sempre estou postando algum projeto relacionado a isso, e se chegou até aqui, aproveita e vê os projetinhos. 
+<h3 align="center">Me chamo Marllon, prazer. Estou estudando para poder criar grandes projetos</h3>
+<p align="justify">Estudante de Sistemas de informação. Amo Programação e sempre estou postando alguma coisa, e se chegou até aqui, aproveita e vê os projetinhos. 
 </p>
 :coffee: toma um café e deixe seu follow tbm.
 <div>
@@ -20,7 +19,7 @@
 ## Detailed information
 
 * **Name**: Marllon Ribeiro
-* **Age**: 19
+* **Age**: 21
 * **Living in**: Espirito Santo, Brazil
-* **Stack**: Javascript - HTML - CSS - React..
+* **Stack**: Javascript - Node.js - React - Next.js - SQL - Python - Java - Mongo DB - PostGreSQL...
 * **Study**:I'm studying on my own
